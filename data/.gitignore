@@ -1,2 +1,6 @@
-raw/*.csv
-processed/*.csv
+raw/**/*.csv
+!raw/**/state.csv
+processed/**/*.csv
+
+raw/**/*.pickle
+processed/**/*.pickle
