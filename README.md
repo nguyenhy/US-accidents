@@ -40,6 +40,7 @@ nbformat: 5.9.2
     ├── explore/            # for data exploration purposes
     │   └── notebook.ipynb
     ├── images/
+    ├── presenatation/      # contains files for presentation purposes
     ├── scripts/
     │   ├── ...
     │   └── pack.sh         # bundle repo into `./dist dir`
