@@ -4,3 +4,4 @@ processed/**/*.csv
 
 raw/**/*.pickle
 processed/**/*.pickle
+!processed/owid-us-covid-data.pickle

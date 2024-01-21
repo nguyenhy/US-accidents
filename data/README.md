@@ -5,6 +5,7 @@
 - [US Accidents (2016 - 2023)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 - Visit paper: [A Countrywide Traffic Accident Dataset](https://arxiv.org/abs/1906.05409)
 - [US State Abbreviation](https://www.bu.edu/brand/guidelines/editorial-style/us-state-abbreviations/)
+- [COVID-19 Data Explorer](https://ourworldindata.org/explorers/coronavirus-data-explorer)
 
 ## Usage Policy and Legal Disclaimer
 This dataset is being distributed solely for research purposes under the Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0). By downloading the dataset, you agree to use it only for non-commercial, research, or academic applications. If you use this dataset, it is necessary to cite the papers mentioned above.
