@@ -13,6 +13,7 @@ include explore/*.py
 include explore/*.ipynb
 
 include image/*.py
+include presentation/*
 
 include utils/*.py
 
