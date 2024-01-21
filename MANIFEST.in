@@ -1,0 +1,30 @@
+# MANIFEST.in
+
+include data/*
+
+exclude data/raw/*.csv
+include data/raw/state.csv
+
+exclude data/processed/*
+
+include config/*.py
+
+include explore/*.py
+include explore/*.ipynb
+
+include image/*.py
+
+include utils/*.py
+
+include README.md
+include requirements.txt
+include .editorconfig
+include .gitignore
+
+include main.ipynb
+include preprocess.ipynb
+
+
+include pack.py
+include __init__.py
+include MANIFEST.in
