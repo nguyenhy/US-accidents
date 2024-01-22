@@ -51,8 +51,8 @@ A point-of-interest p is defined by `p = ⟨lat,lng,type⟩`. Here,
         Refers to stop sign.
     - Traffic:
         Calming Refers to any means for slowing down traffic speed.
-    - Traffic:
-        Signal Refers to traffic signal on intersections.
+    - Traffic Signal:
+        Refers to traffic signal on intersections.
     - Turning:
         Loop Indicates a widened area of a highway with a non-traversable island for turning around.
 Table 1. Note that several of definitions in this table are adopted
