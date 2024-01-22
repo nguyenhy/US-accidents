@@ -3,6 +3,7 @@
 include data/*
 
 exclude data/raw/*.csv
+include data/raw/sample.csv
 include data/raw/state.csv
 
 exclude data/processed/*
